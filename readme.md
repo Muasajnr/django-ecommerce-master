@@ -1,4 +1,4 @@
-# eCommerce Shop Django Project
+# PLP eCommerce Shop Django Project
 
 
 ### Development Steps
@@ -28,7 +28,6 @@
 
 
 ### Installations
-- git clone https://github.com/hereshem/django-ecommerce
 - cd django-ecommerce
 - pip install -r requirements.txt
 - python manage.py migrate
